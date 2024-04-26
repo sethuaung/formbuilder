@@ -8,7 +8,7 @@ export const POLYFILLS = [
   { name: 'fetch', src: 'https://unpkg.com/unfetch/polyfill' },
 ]
 
-export const FALLBACK_SVG_SPRITE = 'https://draggable.github.io/formeo/assets/img/formeo-sprite.svg'
+export const FALLBACK_SVG_SPRITE = 'https://github.com/sethuaung/formbuilder.github.io/assets/img/formeo-sprite.svg'
 
 export const CONTROL_GROUP_CLASSNAME = 'control-group'
 export const STAGE_CLASSNAME = `${PACKAGE_NAME}-stage`
